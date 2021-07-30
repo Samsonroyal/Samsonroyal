@@ -1,4 +1,15 @@
-# Be ye whole magnificent ethereal being.😎
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Samsonroyal.css">
+  
+</head>
+<body>
+
+# Be ye whole magnificent, ethereal being.😎
 <!--
 **Samsonroyal/Samsonroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -19,10 +30,10 @@ I would love to see myself doing something to change the lives of those I come i
 
 <!-- 
 **Work experience section-->
-### Projects I'm currently working on :-
-- Gitsocial by @fotiecodes
-- Eureka 
-- Ugolearn
+### Projects I'm currently collaborating on :-
+- <a href="https://github.com/FotieMConstant/gitsocial">Gitsocial</a>
+- <a href="https://github.com/VortanSystems/Eureka">Eureka</a> 
+- <a href="https://github.com/VortanSystems/VortanWebs">VortanWebs</a> 
 ### My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/Samsonroyal/Samsonroyal">
@@ -40,8 +51,10 @@ I would love to see myself doing something to change the lives of those I come i
 **Contact section-->
 ### Get in touch
 - 🐥 <a href="https://twitter.com/WereSamsonVII"><button type="button">Twitter</button></a>
-- 📫 <a href="mailto:werefast2000@gmail.com">Email me</a>
+- 📫 <a href="mailto:werefast2000@gmail.com">Send an email</a>
 - 🏢 <a href="https://www.linkedin.com/in/were-samson/"><button type="button">LinkedIn</button></a>
 <!-- 
 **Teaser outro-->
 ### To be continued ....
+  </body>
+  </html>
