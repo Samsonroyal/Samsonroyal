@@ -16,8 +16,8 @@
 <!-- 
 **About section-->
 ## Who Am I?
-This is me
-<img src="#" width="400" height="auto" />
+#### Self portrait
+<img src="Bruno.JPG" width="auto" height="auto" />
 
 
 My name is <b>Samson Bruno Were.</b>
