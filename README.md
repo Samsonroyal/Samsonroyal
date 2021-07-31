@@ -9,15 +9,15 @@
 </head>
 <body>
 
-# Be ye whole magnificent, ethereal being.😎
+# Be ye whole ethereal being.😎
 <!--
 **Samsonroyal/Samsonroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- 
 **About section-->
-## Who Am I?
-#### Self portrait
-<img src="Bruno.JPG" width="auto" height="auto" />
+## About Me
+#### This is what I look like
+<img src="Bruno.JPG" width="400" height="auto" />
 
 
 My name is <b>Samson Bruno Were.</b>
@@ -31,7 +31,7 @@ I would love to see myself doing something to change the lives of those I come i
 <!-- 
 **Work experience section-->
 ### Projects I'm currently collaborating on :-
-- <a href="https://github.com/FotieMConstant/gitsocial">Gitsocial</a>
+- <a href="https://github.com/Samsonroyal/gitsocial">Gitsocial</a>
 - <a href="https://github.com/VortanSystems/Eureka">Eureka</a> 
 - <a href="https://github.com/VortanSystems/VortanWebs">VortanWebs</a> 
 ### My GitHub Stats &#x1f4c8;
