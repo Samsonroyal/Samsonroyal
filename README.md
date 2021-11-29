@@ -9,14 +9,14 @@
 </head>
 <body>
 
-# Be ye whole ethereal being.😎
+# My GitHub Profile.😎
 <!--
 **Samsonroyal/Samsonroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- 
 **About section-->
 ## About Me
-#### This is what I look like
+#### Hello 👋🏾 This is what I look like
 <img src="Bruno.JPG" width="400" height="auto" />
 
 
