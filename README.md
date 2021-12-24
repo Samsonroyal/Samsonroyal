@@ -31,6 +31,7 @@ I would love to see myself doing something to change the lives of those I come i
 <!-- 
 **Work experience section-->
 ### Projects I'm currently collaborating on :-
+- <a href="https://github.com/Samsonroyal/kemeet">Kémeet</a>
 - <a href="https://github.com/Samsonroyal/gitsocial">Gitsocial</a>
 - <a href="https://github.com/VortanSystems/Eureka">Eureka</a> 
 - <a href="https://github.com/VortanSystems/VortanWebs">VortanWebs</a> 
@@ -56,6 +57,7 @@ I would love to see myself doing something to change the lives of those I come i
 - 🐥 <a href="https://twitter.com/WereSamsonVII"><button type="button">Twitter</button></a>
 - 📫 <a href="mailto:werefast2000@gmail.com">Send an email</a>
 - 🏢 <a href="https://www.linkedin.com/in/were-samson/"><button type="button">LinkedIn</button></a>
+- 🌐 <a href="https://www.weresamson.me"><button type="button">Website</button></a>
 <!-- 
 **Teaser outro-->
 ### To be continued ....
