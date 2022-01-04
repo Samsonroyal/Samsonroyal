@@ -40,9 +40,10 @@ I would love to see myself doing something to change the lives of those I come i
 
 <a href="https://github.com/Samsonroyal/Samsonroyal">
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonroyal&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=8A2BE2" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonroyal&layout=compact&theme=chartreuse-dark&show_icons)](https://github.com/Samsonroyal/github-readme-stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samsonroyal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&textu_color=ffffff&icon_color=2bbc8a&bg_color=8A2BE2" alt="Samsonroyal's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Samsonroyal&count_private=true&theme=chartreuse-dark&show_icons=true&show=issues,contribs" alt="Samsonroyal's GitHub Stats"/>
+ 
 
 </a>
 
@@ -61,5 +62,6 @@ I would love to see myself doing something to change the lives of those I come i
 <!-- 
 **Teaser outro-->
 ### To be continued ....
+![alt text](https://visitor-badge.laobi.icu/badge?page_id=Samsonroyal)
   </body>
   </html>
