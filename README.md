@@ -49,9 +49,9 @@ I would love to see myself doing something to change the lives of those I come i
 
 
 ### What else?
-- 🌱 I’m currently learning C, Php, and React
+- 🌱 I’m currently learning Flutter and React.js
 - 👯 I’m looking to collaborate on any open-source project that improves the livelihood of youth; either in the education, health or finance sector.
-- 🤔 I’m looking for help with machine learning and Artificial Intelligence.
+- 🤔 I’m looking for help with Artificial Intelligence.
 <!-- 
 **Contact section-->
 ### Get in touch
