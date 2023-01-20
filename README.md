@@ -14,7 +14,7 @@
 **Samsonroyal/Samsonroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- 
 **About section-->
-## Hello 👋🏾 
+## Hello, I am Were 👋🏾 
 I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contributor to opensource software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). I am currently working on projects to make the lives of those around me safer and easier. I should have an **impact** in people's lives; however small it may be. That is my mantra/Code of ethics. I'm a CTO at [Qatalyst Africa](https://qatalystafrica.com), a chess player, and a lover of poetry [Poetry parlour space](https://www.twitter.com/PoetryParlour_)
 
 - 🌱 My portfolio website: [Were Samson](https://weresamson.com/)
