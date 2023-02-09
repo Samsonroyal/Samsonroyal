@@ -33,12 +33,12 @@ I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contribu
 # My GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samsonroyal)](https://git.io/streak-stats)
 
-# My top languages
+# Top programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonroyal)](https://github.com/Samsonroyal/github-readme-stats)
 
 <!-- 
 **Work experience section-->
-## Projects I'm currently collaborating on :-
+## Open Source Projects I have collaborated on :-
 - <a href="https://github.com/Samsonroyal/kemeet">Kémeet</a>
 - <a href="https://github.com/Samsonroyal/gitsocial">Gitsocial</a>
 - <a href="https://github.com/Samsonroyal/Scpel">Scpel</a> 
