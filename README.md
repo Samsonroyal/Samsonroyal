@@ -31,7 +31,7 @@ I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contribu
 
 
 # My GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samsonroyal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samsonroyal&theme=tokyonight&border_radius=2.8&date_format=j%20M%5B%20Y%5D&background=08061B)](https://git.io/streak-stats)
 
 # Top programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonroyal)](https://github.com/Samsonroyal/github-readme-stats)
