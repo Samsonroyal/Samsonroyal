@@ -38,11 +38,12 @@ I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contribu
 
 <!-- 
 **Work experience section-->
-## Open Source Projects I have collaborated on :-
+## Open Source Projects I have contributed to :-
 - <a href="https://github.com/Samsonroyal/kemeet">Kémeet</a>
 - <a href="https://github.com/Samsonroyal/gitsocial">Gitsocial</a>
 - <a href="https://github.com/Samsonroyal/Scpel">Scpel</a> 
 - <a href="https://github.com/Samsonroyal/LanguagesOfCode">Languages of Code</a> 
+- [Auto Telegram](https://github.com/OSCA-Kampala-Chapter/autotelegram)
 
 ## What else?
 - 🌱 I’m currently learning Flutter, Ionic and React.js
