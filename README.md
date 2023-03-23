@@ -46,7 +46,7 @@ I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contribu
 - [Auto Telegram](https://github.com/OSCA-Kampala-Chapter/autotelegram)
 
 ## What else?
-- 🌱 I’m currently learning Flutter, Ionic and React.js
+- 🌱 I’m currently learning Flutter, Ionic and playing with Next.js and Remix.js
 - 👯 I’m looking to collaborate on any open-source project that improves the livelihood of youth; either in the education, health or finance sector.
 - ⚒️ I’m working on a groundbreaking project in the machine learning space.
 <!-- 
@@ -55,7 +55,7 @@ I'm a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contribu
 - 🐥 <a href="https://twitter.com/SamsonWere_"><button type="button">Twitter</button></a>
 - 📫 <a href="mailto:werefast2000@gmail.com">Send an email</a>
 - 🏢 <a href="https://www.linkedin.com/in/were-samson/"><button type="button">LinkedIn</button></a>
-- 🌐 <a href="https://www.weresamson.me"><button type="button">Website</button></a>
+- 🌐 <a href="https://www.weresamson.com"><button type="button">Website</button></a>
 <!-- 
 **Teaser outro-->
 ## To be continued ....
