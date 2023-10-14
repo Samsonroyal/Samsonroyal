@@ -15,7 +15,7 @@
 <!-- 
 **About section-->
 ## Hello, I am Were 👋🏾 
-I am a front-end Software Engineer at [Taasa](https://www.taasa.app) & a contributor to opensource software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). I am currently working on projects to make the lives of those around me safer and easier. My mantra/Code of ethics is "have an **impact** in people's lives; however small the impact is." I'm a CTO at [Qatalyst Africa](https://qatalystafrica.com), an occassional chess player, and a lover of poetry; one of the hosts at the [Poetry parlour space](https://www.twitter.com/PoetryParlour_)
+I am a front-end Software Engineer at [Taasa](https://www.taasa.io) & a contributor to opensource software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). I am currently working on projects to make the lives of those around me safer and easier. My mantra/Code of ethics is "have an **impact** in people's lives; however small the impact is." I'm a CTO at [Qatalyst Africa](https://qatalystafrica.com), an occassional chess player, and a lover of poetry; one of the hosts at the [Poetry parlour space](https://www.twitter.com/PoetryParlour_)
 
 - 🌱 My portfolio website: [Were Samson](https://weresamson.com/)
 - 🕊 My Twitter: [@SamsonWere_](https://twitter.com/samsonwere_)
