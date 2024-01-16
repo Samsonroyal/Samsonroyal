@@ -10,9 +10,11 @@ A Software Engineer at [Taasa](https://www.taasa.io)
 
 A contributor to open-source software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). 
 
+An entrepreneur in training(EIT) at [MEST](https:meltwater.org) with Class of 2024. 🏅
+
 I am currently working on projects to make the lives of those around me safer and easier. 
 
-My mantra/Code of ethics is "have an **impact** in people's lives; however small the impact is." 
+My mantra/Code of ethics is "have an **impact** in people's lives; Everyday." 
 
 A CTO at [Qatalyst Africa](https://qatalystafrica.com)
 
