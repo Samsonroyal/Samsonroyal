@@ -4,7 +4,7 @@
 **Samsonroyal/Samsonroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- 
 **About section-->
-## Hello, I am Were 👋🏾 
+## Hello, I am The Monarch 👋🏾 
 
 A Software Engineer at [Taasa](https://www.taasa.io) 
 
@@ -18,7 +18,8 @@ My mantra/Code of ethics is "have an **impact** in people's lives; Everyday."
 
 A CTO at [Qatalyst Africa](https://qatalystafrica.com)
 
-An occasional chess player, and a lover of poetry; one of the hosts at the [Poetry parlour space](https://www.twitter.com/PoetryParlour_)
+An occasional chess player, and a lover of poetry; one of the hosts at the [Poetry parlour space](https://www.twitter.com/PoetryParlour_) 
+when I am not thinking about the weight of the burden of vision I bear for my heritage and inheritance.
 
 - 🌱 My portfolio website: [Were Samson](https://weresamson.vercel.app)
 - 🕊 My Twitter: [@SamsonWere_](https://twitter.com/samsonwere_)
@@ -59,7 +60,11 @@ An occasional chess player, and a lover of poetry; one of the hosts at the [Poet
 - 🌐 <a href="https://www.weresamson.vercel.app">Website</a>
 <!-- 
 **Teaser outro-->
-## To be continued ....
+## Royal Dismissal....
+
+- (And yes, if you were wondering I am actual blue blood)
+
+
 ![DigitalUndergroundToBeContinuedGIF](https://user-images.githubusercontent.com/26835888/194743078-2f02b81b-7292-46e4-bb78-16e141f1b858.gif)
 
 ![alt text](https://visitor-badge.laobi.icu/badge?page_id=Samsonroyal)
