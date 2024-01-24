@@ -26,17 +26,24 @@ when I am not thinking about the weight of the burden of vision I bear for my he
 - ⚡ Fun fact: I love music, poetry, contemporary art, photography, and staring at the sky when the sun is going to sleep.
 - ✨ Infallible truth: Greatness resides inside of me. I shine too; for a living.
 
-# My GitHub Stats &#x1f4c8;
+# Let's Crunch Some Data &#x1f4c8;
 
+## Wakatime Hours
+[![wakatime](https://wakatime.com/badge/user/182be1fb-1b4c-426d-8f3f-08b5cd5979fb.svg)](https://wakatime.com/@182be1fb-1b4c-426d-8f3f-08b5cd5979fb)
+
+## Github Stats
 <a href="https://github.com/Samsonroyal/Samsonroyal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Samsonroyal&count_private=true&theme=chartreuse-dark&show_icons=true&show=issues,contribs" alt="Samsonroyal's GitHub Stats"/>
 </a>
 
-# My GitHub Streak
+## GitHub Streak :godmode:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samsonroyal&theme=tokyonight&border_radius=2.8&date_format=j%20M%5B%20Y%5D&background=08061B)](https://git.io/streak-stats)
 
-# Top programming languages
+## Top programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonroyal&layout=compact&langs_count=8)](https://github.com/Samsonroyal/github-readme-stats)
+
+
+
 
 <!-- 
 **Work experience section-->
