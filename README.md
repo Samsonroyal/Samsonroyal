@@ -49,9 +49,9 @@ when I am not thinking about the weight of the burden of vision I bear for my he
 **Work experience section-->
 ## Open Source Projects I have contributed to:
 - <a href="https://github.com/Samsonroyal/kemeet">Kémeet</a>
-- <a href="https://github.com/Samsonroyal/gitsocial">Gitsocial</a>
+- <a href="https://github.com/Samsonroyal/Clearpath">Clearpath</a>
 - <a href="https://github.com/Samsonroyal/Scpel">Scpel</a> 
-- <a href="https://github.com/Samsonroyal/LanguagesOfCode">Languages of Code</a> 
+- <a href="https://github.com/Samsonroyal/flutter_simple_toast">Flutter Simple Toast</a> 
 - [Auto Telegram](https://github.com/OSCA-Kampala-Chapter/autotelegram)
 
 ## What else?
