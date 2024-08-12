@@ -6,17 +6,15 @@
 **About section-->
 ## Hello, I am The Monarch 👋🏾 
 
-A Software Engineer at [Taasa](https://www.taasa.io) 
+A Software Engineer and Entreprenuer 
 
 A contributor to open-source software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). 
 
-An entrepreneur in training(EIT) at [MEST](https:meltwater.org) with Class of 2024. 🏅
+A graduate of Meltwater Entrepreneurial School of Technology [MEST](https:meltwater.org) Class of 2024. 🏅
 
-I am currently working on projects to make the lives of those around me safer and easier. 
+I am currently working on using AI to make customer service better 
 
 My mantra/Code of ethics is "have an **impact** in people's lives; Everyday." 
-
-A CTO at [Qatalyst Africa](https://qatalystafrica.com)
 
 An occasional chess player, and a lover of poetry; one of the hosts at the [Poetry parlour space](https://www.twitter.com/PoetryParlour_) 
 when I am not thinking about the weight of the burden of vision I bear for my heritage and inheritance.
