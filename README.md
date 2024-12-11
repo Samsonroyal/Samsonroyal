@@ -8,7 +8,7 @@
 
 A Software Engineer and Entreprenuer 
 
-A contributor to open-source software in the Open Source Community Africa Kampala Chapter, [OSCA-Kla](https://oscakampala.org/). 
+A contributor to open-source software 
 
 A graduate of Meltwater Entrepreneurial School of Technology [MEST](https:meltwater.org) Class of 2024. 🏅
 
